@@ -1,0 +1,26 @@
+.body{
+    margin: 0;
+    flex-wrap: wrap;
+}
+.title{
+    font-weight: 50;
+    border-style: solid 1px #c2c2c2;
+    margin: 5px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    background-color: #FFF;
+    color:#000;
+    text-align: center;
+}
+p{
+    font-weight: 600;
+}
+.title:hover{
+    background-color: #0085A1;
+    color: #FFF;
+    border-style: 0 0px #fff;
+
+}
